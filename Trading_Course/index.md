@@ -1,4 +1,4 @@
-# 📘 Trading Wala Guru
+# 📘 Genius Trading Wallah
 
 <div align="center">
   <img src="https://img.shields.io/badge/Course-100%25%20Free-success?style=for-the-badge&logo=appveyor" alt="100% Free">
@@ -15,7 +15,7 @@
   <h3>🔥 The ultimate, no-nonsense repository to master the Indian Stock Market and Personal Finance.</h3>
 </div>
 
-Welcome to **Trading Wala Guru** – Your Complete Financial Education Platform! 🚀
+Welcome to **Genius Trading Wallah** – Your Complete Financial Education Platform! 🚀
 
 This repository is a structured, step-by-step guide to mastering the Stock Market, Personal Finance, Trading, and Investment strategies. Why pay ₹50,000 for a course when you can learn real trading, fundamentally and technically, absolutely free?
 
@@ -137,8 +137,8 @@ Join our community:
 
 ## 📢 Share this Course
 If this course is helping you, please share it with your friends and help them become financially independent too!
-- 🟩 [**Share on WhatsApp**](https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20100%25%20FREE%20Stock%20Market%20%26%20Trading%20Course!%20%0A%0Ahttps://github.com/Satyenderparihar/Trading-Wala-Guru)
-- 🩵 [**Share on Twitter / X**](https://twitter.com/intent/tweet?text=Check%20out%20this%20100%25%20Free%20Trading%20Course%20Repo!%0Ahttps://github.com/Satyenderparihar/Trading-Wala-Guru)
+- 🟩 [**Share on WhatsApp**](https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20100%25%20FREE%20Stock%20Market%20%26%20Trading%20Course!%20%0A%0Ahttps://github.com/Satyenderparihar/genius-trading-wallah)
+- 🩵 [**Share on Twitter / X**](https://twitter.com/intent/tweet?text=Check%20out%20this%20100%25%20Free%20Trading%20Course%20Repo!%0Ahttps://github.com/Satyenderparihar/genius-trading-wallah)
 
 ---
 
