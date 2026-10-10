@@ -1,7 +1,7 @@
-site_name: Trading Wala Guru Course
-site_url: https://Satyenderparihar.github.io/Trading-Wala-Guru/
-repo_url: https://github.com/Satyenderparihar/Trading-Wala-Guru
-repo_name: Satyenderparihar/Trading-Wala-Guru
+site_name: Genius Trading Wallah Course
+site_url: https://Satyenderparihar.github.io/genius-trading-wallah/
+repo_url: https://github.com/Satyenderparihar/genius-trading-wallah
+repo_name: Satyenderparihar/genius-trading-wallah
 docs_dir: Trading_Course
 
 extra:
@@ -49,7 +49,7 @@ plugins:
   - search
   - with-pdf:
       cover: true
-      cover_title: "Trading Wala Guru Course"
+      cover_title: "Genius Trading Wallah Course"
       toc_title: "Table of Contents"
       output_path: "pdfs/document.pdf"
       enabled_if_env: ENABLE_PDF_EXPORT
