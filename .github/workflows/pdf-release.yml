@@ -41,9 +41,9 @@ jobs:
         if: success()
         with:
           tag_name: "latest-edition"
-          name: "Trading Wala Guru - Complete Free Course"
+          name: "Genius Trading Wallah - Complete Free Course"
           files: site/pdfs/document.pdf
-          body: "Download the complete and up-to-date PDF eBook of the Trading Wala Guru course."
+          body: "Download the complete and up-to-date PDF eBook of the Genius Trading Wallah course."
           make_latest: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
